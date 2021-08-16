@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: hr example
+slug: relatoriopg
 ---
 
 Projeto de limpeza e tratamento de dados bancários. Permite o upload de determinado modelo de extrato bancário, devolve um relatório dos pagamento de acordo com a operação bancária.  

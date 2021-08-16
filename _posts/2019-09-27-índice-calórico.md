@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: hr example
+slug: indice
 ---
 
 Primeiro projeto desenvolvido - Calculadora que retorna um índice relacionado a quantidade de calórias do alimento consumido. 

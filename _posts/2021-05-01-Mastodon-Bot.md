@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: hr example
+slug: mastodonbot
 ---
 
 Projeto pessoal de bot postagem de imagems na rede social Mastodon. Consome um api externa com informações de series de Tv, processa e organiza a informação na forma de uma postagem visual. 
