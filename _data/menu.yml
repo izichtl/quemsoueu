@@ -7,8 +7,10 @@ entries:
       - title: 20/08/1986 - Nova Iguaçu-Rj
       - title: Lógico e critativo, interessado em diferentes áras de conhecimento. 
       - title: Estudei Python para tentar entender e solucionar alguns problemas ao modelar arquiterura paramamétrica usando o <a href='https://www.grasshopper3d.com/'>Grasshopper</a>. 
-      - title: Gostei e decidi mudar de área de atuação e passei a estudar programação, com o foco em Desenvolvimento Web.
-      - title: "GitHub <a href='https://www.behance.net/zichtl'>izichtl</a>"
+      - title: Gostei e decidi mudar de área de atuação e passei a estudar programação, com o foco em Desenvolvimento Web. 
+      - title: Eu poderia ajudar você escrevendo algumas linhas de código!
+      - title: "21 98260-8223 / izichtl@gmail.com"  
+      - title: "GitHub <a href='https://github.com/izichtl'>izichtl</a>"
       - title: "Portifólio <a href='https://www.behance.net/zichtl'>arquitetura e design</a>"
   - title: Conhecimentos-
     entries:
@@ -17,21 +19,30 @@ entries:
       - title: CLI, Git, Github, PMBOK, Scrum.
   - title: Projetos-
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
-      show_more_text: See archive...
+      show_more_text: Todos os Projetos...
       show_more_url: archive.html
   
   - title: Educacional-
     entries:
       - title: Academico
         entries:
-          - title: Análise de Sistemas - 2021 -em curso.
+          - title: Análise de Sistemas.emCurso - 2021.
           - title: Arquitetura e Urbanismo - 2017.
       - title: Aprendizado Livre
         entries:
-          - title: Python - 2020.
+          - title: API Nodejs - 2021.
+          - title: Webdesin responsivo - 2021.
+          - title: Python - 2019.
+          - title: Inglês - 2017.
+          - title: Adobe Suite - 2009.
+  - title: Experiência Profissional-
+    entries:
+      - title: Angelim Arquitetura - Arquiteto - 2anos.
+      - title: Consultoria Criatiativa - Designer - 4anos.
+      - title: Provecto Smart Offices - Designer - 3anos.
   - title: sobre este site.
     entries:
-      - title: "Desenvolvido por <a href='https://riggraz.dev'>Ivan Zichtl</a>."
-      - title: "Este site foi desenvolvido em jekyll usando a template no-style-please, used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "Desenvolvido por <a href='https://github.com/izichtl'>Ivan Zichtl</a>."
+      - title: "Este site foi desenvolvido em jekyll usando a template no-style-please, criado por <a href='https://riggraz.dev'>riggraz.dev</a>"

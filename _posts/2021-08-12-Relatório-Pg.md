@@ -9,8 +9,8 @@ Projeto de limpeza e tratamento de dados bancários. Permite o upload de determi
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://izichtl.github.io/indicecalorico/)
-- [Código](https://izichtl.github.io/indicecalorico/)
+- [Demo](https://relatoriopg.herokuapp.com/)
+- [Código](https://github.com/izichtl/relatoriobb)
 
 Este projeto utiliza: #nodejs, #express, #ejs -host on heroku.
 
