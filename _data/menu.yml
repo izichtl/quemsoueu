@@ -1,0 +1,37 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Quem sou eu-
+    entries:
+      - title: 20/08/1986 - Nova Iguaçu-Rj
+      - title: Lógico e critativo, interessado em diferentes áras de conhecimento. 
+      - title: Estudei Python para tentar entender e solucionar alguns problemas ao modelar arquiterura paramamétrica usando o <a href='https://www.grasshopper3d.com/'>Grasshopper</a>. 
+      - title: Gostei e decidi mudar de área de atuação e passei a estudar programação, com o foco em Desenvolvimento Web.
+      - title: "GitHub <a href='https://www.behance.net/zichtl'>izichtl</a>"
+      - title: "Portifólio <a href='https://www.behance.net/zichtl'>arquitetura e design</a>"
+  - title: Conhecimentos-
+    entries:
+      - title: html, css, markdown, javascript, typescript, php, jsx, ejs.
+      - title: Api, NodeJs, RegEx, React, Express, Jekyll.
+      - title: CLI, Git, Github, PMBOK, Scrum.
+  - title: Projetos-
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+  
+  - title: Educacional-
+    entries:
+      - title: Academico
+        entries:
+          - title: Análise de Sistemas - 2021 -em curso.
+          - title: Arquitetura e Urbanismo - 2017.
+      - title: Aprendizado Livre
+        entries:
+          - title: Python - 2020.
+  - title: sobre este site.
+    entries:
+      - title: "Desenvolvido por <a href='https://riggraz.dev'>Ivan Zichtl</a>."
+      - title: "Este site foi desenvolvido em jekyll usando a template no-style-please, used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
