@@ -3,14 +3,14 @@ layout: post
 slug: portifolio
 ---
 
-Meu primeiro portifólio, este fui eu maravilhado com flexbox, rs.
+Meu primeiro portifólio, feito em html e css, este fui eu maravilhado com flexbox, rs.
 
 ---
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://github.com/izichtl/portifolio)
-- [Código](https://izichtl.github.io/portifolio/)
+- [Demo](https://izichtl.github.io/portifolio/)
+- [Código](https://github.com/izichtl/portifolio)
 
 Este projeto utiliza: #html #css #javascript host on github pages.
 

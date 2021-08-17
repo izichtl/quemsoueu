@@ -3,7 +3,7 @@ layout: post
 slug: astrotuite
 ---
 
-Calculadora de Signos. Calcula seu signo zodíaco e sorteia um tuite como previsão.   
+Página web estilizada na forma de app. Recebe sua data de nascimento, mostra o signo do usuário e um tweet aleatório sorteado como previsão astrológica.
 
 ---
 {: data-content=""}

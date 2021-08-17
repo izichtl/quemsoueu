@@ -7,10 +7,10 @@ Link para repositórios de códigos em diferentes linguagens, organizados ou nã
 
 Código fonte:
 
-- [nodejs](https://github.com/izichtl/nodejs)
-- [typscript](https://github.com/izichtl/typescript)
-- [Python](https://github.com/izichtl/python)
+
+- [Typscript](https://github.com/izichtl/typescript)
 - [Javascript](https://github.com/izichtl/javascript)
+- [Python](https://github.com/izichtl/python)
 - [Php](https://github.com/izichtl/php)
 
 

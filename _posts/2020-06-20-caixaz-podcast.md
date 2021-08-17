@@ -3,7 +3,7 @@ layout: post
 slug: caixapodcast
 ---
 
-Front-end em desenvolvido em React que consome uma api get com json dos posts, usando como tema um podcast imaginário.  
+Front-end em desenvolvido em React. Consome uma api externa, recebendo um json com o conteúdo das postagens, customizado como tema um podcast imaginário.
 
 ---
 {: data-content=""}

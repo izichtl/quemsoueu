@@ -3,7 +3,7 @@ layout: post
 slug: richardfey
 ---
 
-Página web responsiva contendo um tributo ao físico Richard Feynman  
+Página web responsiva de tributo ao físico Richard Feynman.
 
 ---
 {: data-content=""}

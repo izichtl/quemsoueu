@@ -3,13 +3,13 @@ layout: post
 slug: buscadoguinho
 ---
 
-Front-end em desenvolvido em React que consome uma api get com json de perfis de cães.  
+Front-end em desenvolvido em React. Consome uma api externa, recebendo um json com o conteúdo dos perfis dos cães que serão mostrados.
 
 ---
 {: data-content=""}
 
 Links e código fonte:
-- [não disponível]
+- [Base-URL](https://bdoguinhoapi.herokuapp.com/)
 - [Código](https://izichtl.github.io/indicecalorico/)
 
 Este projeto utiliza: #nodesj #react host on heroku.

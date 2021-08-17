@@ -3,16 +3,17 @@ layout: post
 slug: quemsoueu
 ---
 
-Este site lindo que você acessa agora tem como objetivo suprir a necessidade de um curriculo online e permitir o estudo da tecnologia jekyll com deploy automatizado via github. 
+
+Este site na qual você está objetivou suprir a necessidade de um currículo online e permitir o estudo da tecnologia jekyll. Instalação, configuração e deploy. 
 
 ---
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://www.izichtl.com/)
+- [Demo](https://quemsoueu.netlify.app/)
 - [Código](https://github.com/izichtl/quemsoueu)
 
-Este projeto utiliza: #jekyll #sass
+Este projeto utiliza: #jekyll #sass host on netlify.
 
 
 

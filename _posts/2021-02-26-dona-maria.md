@@ -1,9 +1,9 @@
 ---
 layout: post
-slug: richardfey
+slug: donamaria
 ---
 
-Página web responsiva contendo a Landing page para uma loja comercial.
+Landing page responsiva para uma loja comercial fictícia.
 
 ---
 {: data-content=""}

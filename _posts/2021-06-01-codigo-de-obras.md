@@ -3,7 +3,7 @@ layout: post
 slug: codigoobras
 ---
 
-Página web que agrupa links para códigos de obras e relacionado de diferentes estados brasileiros.  
+Página web desenvolvida em Markdown, feira para agrupa links para códigos de obras e outro documentos relacionados ao projeto e legalização de imóveis em diferentes estados brasileiros.
 
 ---
 {: data-content=""}
