@@ -12,7 +12,7 @@ Links e código fonte:
 - [Demo](https://relatoriopg.herokuapp.com/)
 - [Código](https://github.com/izichtl/relatoriobb)
 
-Este projeto utiliza: #nodejs, #express, #ejs -host on heroku.
+Este projeto utiliza: #nodejs, #express, #ejs hosted on heroku.
 
 
 

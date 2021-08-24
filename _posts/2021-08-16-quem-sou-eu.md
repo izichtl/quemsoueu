@@ -13,7 +13,7 @@ Links e código fonte:
 - [Demo](https://quemsoueu.netlify.app/)
 - [Código](https://github.com/izichtl/quemsoueu)
 
-Este projeto utiliza: #jekyll #sass host on netlify.
+Este projeto utiliza: #jekyll #sass hosted on netlify.
 
 
 

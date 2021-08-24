@@ -12,7 +12,7 @@ Links e código fonte:
 - [Demo](https://izichtl.github.io/dmaria/)
 - [Código](https://github.com/izichtl/dmaria)
 
-Este projeto utiliza: #html #css #javascript host on github pages.
+Este projeto utiliza: #html #css #javascript hosted on github pages.
 
 
 

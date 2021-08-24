@@ -12,7 +12,7 @@ Links e código fonte:
 - [Base-URL](https://bdoguinhoapi.herokuapp.com/)
 - [Código](https://izichtl.github.io/indicecalorico/)
 
-Este projeto utiliza: #nodesj #react host on heroku.
+Este projeto utiliza: #nodesj #react hosted on heroku.
 
 
 

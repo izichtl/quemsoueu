@@ -14,7 +14,7 @@ Links e código fonte:
 - [Demo](https://izichtl.github.io/indicecalorico/)
 - [Código](https://github.com/izichtl/indicecalorico)
 
-Este projeto utiliza: #html #css #javascript host on github pages.
+Este projeto utiliza: #html #css #javascript hosted on  github pages.
 
 
 

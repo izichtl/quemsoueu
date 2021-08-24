@@ -15,7 +15,7 @@ Links e código fonte:
 - [Perfil no Mastodon](https://botsin.space/@tvshow)
 - [Código](https://github.com/izichtl/tvshowBot)
 
-Este projeto utiliza: #nodejs #canvasjs #express host on heroku.
+Este projeto utiliza: #nodejs #canvasjs #express hosted on heroku.
 
 
 

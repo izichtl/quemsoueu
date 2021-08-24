@@ -12,7 +12,7 @@ Links e código fonte:
 - [Demo](https://izichtl.github.io/codigo-de-obras-do-brasil/)
 - [Código](https://github.com/izichtl/codigo-de-obras-do-brasil)
 
-Este projeto utiliza: #markdown host on github pages.
+Este projeto utiliza: #markdown hosted on github pages.
 
 
 

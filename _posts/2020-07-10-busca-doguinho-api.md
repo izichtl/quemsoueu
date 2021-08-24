@@ -18,7 +18,7 @@ Links e código fonte:
 - [Base-URL](https://bdoguinhoapi.herokuapp.com/)
 - [Código](https://github.com/izichtl/buscaDoguinhoApi)
 
-Este projeto utiliza: #nodejs, #express, #ejs -host on heroku.
+Este projeto utiliza: #nodejs, #express, #ejs hosted on heroku.
 
 
 

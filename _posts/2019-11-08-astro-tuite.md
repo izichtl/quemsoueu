@@ -12,7 +12,7 @@ Links e código fonte:
 - [Demo](https://izichtl.github.io/astrotuite/)
 - [Código](https://github.com/izichtl/astrotuite)
 
-Este projeto utiliza: #html #css #javascript host on github pages.
+Este projeto utiliza: #html #css #javascript hosted on github pages.
 
 
 
