@@ -16,9 +16,9 @@ entries:
       - title: "Portifólio <a href='https://www.behance.net/zichtl'>arquitetura e design</a>"
   - title: Conhecimentos-
     entries:
-      - title: html, css, markdown, javascript, typescript, php, jsx, ejs.
-      - title: RegEx, Api, NodeJs, React, MongoDB, Express, Jekyll.
-      - title: CLI, Git, Github, PMBOK, Scrum, Inglês Técnico.
+      - title: Html, Css, Markdown, Javascript, Typescript, Php, Ejs.
+      - title: RegEx, Rest, NodeJs, Vue, React, Sql, Express, Jekyll.
+      - title: CLI, Git, Github, Docker, PMBOK, Scrum, Inglês Técnico.
   - title: Projetos-
     post_list:
       limit: 10
