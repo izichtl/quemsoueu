@@ -11,7 +11,7 @@ Api Rest com autenticação JWT para upload de clientes, utiliza MySql e Postgre
 
 Links e código fonte:
 - [off-line]
-- [Código](https://github.com/izichtl/apiclient)
+- [Código](https://github.com/izichtl/apiclient){:target="_blank"}
 
 Este projeto utiliza: #nodejs #JWT #MySql #Postgres #Express hosted on Heroku.
 

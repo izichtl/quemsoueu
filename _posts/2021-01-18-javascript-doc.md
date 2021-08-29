@@ -9,8 +9,8 @@ Página web responsiva contendo a documentação básica do javascript.
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://izichtl.github.io/Jsdocumentation/)
-- [Código](https://github.com/izichtl/Jsdocumentation)
+- [Site](https://izichtl.github.io/Jsdocumentation/){:target="_blank"}
+- [Código](https://github.com/izichtl/Jsdocumentation){:target="_blank"}
 
 Este projeto utiliza: #html #css #javascript hosted on github pages.
 

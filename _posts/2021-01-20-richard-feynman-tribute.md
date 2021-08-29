@@ -9,8 +9,8 @@ Página web responsiva de tributo ao físico Richard Feynman.
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://izichtl.github.io/RichardFeynman/)
-- [Código](https://github.com/izichtl/RichardFeynman)
+- [Site](https://izichtl.github.io/RichardFeynman/){:target="_blank"}
+- [Código](https://github.com/izichtl/RichardFeynman){:target="_blank"}
 
 Este projeto utiliza: #html #css #javascript hosted on github pages.
 

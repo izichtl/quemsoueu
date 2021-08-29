@@ -11,8 +11,8 @@ Primeiro projeto desenvolvido - Página web estilizada na forma de app que retor
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://izichtl.github.io/indicecalorico/)
-- [Código](https://github.com/izichtl/indicecalorico)
+- [Demo](https://izichtl.github.io/indicecalorico/){:target="_blank"}
+- [Código](https://github.com/izichtl/indicecalorico){:target="_blank"}
 
 Este projeto utiliza: #html #css #javascript hosted on  github pages.
 

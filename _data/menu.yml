@@ -12,8 +12,8 @@ entries:
       - title: Eu poderia ajudar você? Meus contatos :) 
        
       - title: "21 98260-8223 / izichtl@gmail.com"  
-      - title: "GitHub <a  href='https://github.com/izichtl'>izichtl</a>"
-      - title: "Portifólio <a href='https://www.behance.net/zichtl'>arquitetura e design</a>"
+      - title: "GitHub <a  href='https://github.com/izichtl' target='_blank'>izichtl</a>"
+      - title: "Portifólio <a href='https://www.behance.net/zichtl' target='_blank' >arquitetura e design</a>"
   - title: Conhecimentos-
     entries:
       - title: Html, Css, Markdown, Javascript, Typescript, Php, Ejs.
@@ -21,18 +21,18 @@ entries:
       - title: CLI, Git, Github, Docker, PMBOK, Scrum, Inglês Técnico.
   - title: Projetos-
     post_list:
-      limit: 10
+      limit: 3
       show_more: true
-      show_more_text: Todos os Projetos...
+      show_more_text: Todos os Projetos.
       show_more_url: archive.html
-  
+
   - title: Educacional-
     entries:
       - title: Académico
         entries:
           - title: Análise de Sistemas - emCurso - 2021.
           - title: Arquitetura e Urbanismo - 2017.
-      - title: Aprendizado Livre
+      - title: Cursos Livres
         entries:
           - title: API Nodejs - 2021.
           - title: Webdesign Responsivo - 2021.
@@ -46,5 +46,5 @@ entries:
       - title: Provecto Smart Offices - Designer - 3anos.
   - title: sobre este site.
     entries:
-      - title: "Desenvolvido por <a href='https://github.com/izichtl'>Ivan Zichtl</a>."
-      - title: "Este site foi desenvolvido em jekyll usando a template no-style-please, criado por <a href='https://riggraz.dev'>riggraz.dev</a>"
+      - title: "Desenvolvido por <a href='https://github.com/izichtl' target='_blank' >Ivan Zichtl</a>."
+      - title: "Este site usa a template no-style-please, criado por <a href='https://riggraz.dev' target='_blank' >riggraz.dev</a>"

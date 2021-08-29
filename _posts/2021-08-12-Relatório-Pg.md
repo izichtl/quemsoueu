@@ -9,8 +9,8 @@ Projeto de limpeza e tratamento de dados bancários. Permite o upload de determi
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://relatoriopg.herokuapp.com/)
-- [Código](https://github.com/izichtl/relatoriobb)
+- [Site](https://relatoriopg.herokuapp.com/){:target="_blank"}
+- [Código](https://github.com/izichtl/relatoriobb){:target="_blank"}
 
 Este projeto utiliza: #nodejs, #express, #ejs hosted on heroku.
 

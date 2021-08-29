@@ -9,8 +9,8 @@ Página web desenvolvida em Markdown, feira para agrupa links para códigos de o
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://izichtl.github.io/codigo-de-obras-do-brasil/)
-- [Código](https://github.com/izichtl/codigo-de-obras-do-brasil)
+- [Site](https://izichtl.github.io/codigo-de-obras-do-brasil/){:target="_blank"}
+- [Código](https://github.com/izichtl/codigo-de-obras-do-brasil){:target="_blank"}
 
 Este projeto utiliza: #markdown hosted on github pages.
 

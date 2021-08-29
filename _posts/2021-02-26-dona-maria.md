@@ -9,8 +9,8 @@ Landing page responsiva para uma loja comercial fictícia.
 {: data-content=""}
 
 Links e código fonte:
-- [Demo](https://izichtl.github.io/dmaria/)
-- [Código](https://github.com/izichtl/dmaria)
+- [Site](https://izichtl.github.io/dmaria/){:target="_blank"}
+- [Código](https://github.com/izichtl/dmaria){:target="_blank"}
 
 Este projeto utiliza: #html #css #javascript hosted on github pages.
 

@@ -12,8 +12,8 @@ Spa desenvolvida em Vue, consome dados da [RickMorty - API](https://rickandmorty
 
 
 Links e código fonte:
-- [Demo](https://rickmortyspa.herokuapp.com/)
-- [Código](https://github.com/izichtl/rickmortySpa)
+- [Site](https://rickmortyspa.herokuapp.com/){:target="_blank"}
+- [Código](https://github.com/izichtl/rickmortySpa){:target="_blank"}
 
 Este projeto utiliza: #nodejs, #express, #vue #GraphQl hosted on heroku.
 

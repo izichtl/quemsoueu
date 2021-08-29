@@ -15,8 +15,8 @@ Api feita em nodejs e express que disponibiliza dados de perfis de cães.
 {: data-content=""}
 
 Links e código fonte:
-- [Base-URL](https://bdoguinhoapi.herokuapp.com/)
-- [Código](https://github.com/izichtl/buscaDoguinhoApi)
+- [Endpoint](https://bdoguinhoapi.herokuapp.com/){:target="_blank"}
+- [Código](https://github.com/izichtl/buscaDoguinhoApi){:target="_blank"}
 
 Este projeto utiliza: #nodejs, #express, #ejs hosted on heroku.
 

@@ -11,9 +11,9 @@ Projeto pessoal de bot postagem de imagens na rede social. Consome um api extern
 {: data-content=""}
 
 Links e código fonte:
-- [offline](https://botmast.herokuapp.com/)
-- [Perfil no Mastodon](https://botsin.space/@tvshow)
-- [Código](https://github.com/izichtl/tvshowBot)
+- [offline](https://botmast.herokuapp.com/){:target="_blank"}
+- [Mastodon](https://botsin.space/@tvshow){:target="_blank"}
+- [Código](https://github.com/izichtl/tvshowBot){:target="_blank"}
 
 Este projeto utiliza: #nodejs #canvasjs #express hosted on heroku.
 
