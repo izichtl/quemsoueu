@@ -32,11 +32,12 @@
 
     <li>
       <a href="{{everything}}">{{ post.name }}</a>
-      - 
-      <a target="_blank" href="{{ post.link | relative_url }}">{{ 'site' }}</a> |
-      <a target="_blank" href="{{ post.github | relative_url }}">{{ 'github' }}</a>
+       - 
+      <a target="_blank" href="{{ post.link | relative_url }}">{{ 'Site' }}</a> |
+      <a target="_blank" href="{{ post.github | relative_url }}">{{ 'Github' }}</a>
       <br>{{ post.data | date: '%Y' }}
       - {{ post.techs }}
+      <br>
       <br>
     </li>
     {%-endif-%}
@@ -44,6 +45,7 @@
     <!-- {%- if include.show_more and limit_exceeded -%}
       <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
     {%- endif -%} -->
-    <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
+    <!-- <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li> -->
+    <!-- <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li> -->
   </ul>
 {%- endif -%}

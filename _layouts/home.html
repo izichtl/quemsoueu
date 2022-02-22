@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
+
+{% assign port = site.data.base.port %}
+{% assign entries = site.data.base.ptentries %}
 <header>
-  <h1>{{ site.title }}</h1>
+  <h1>{{ site.data.base.title }}</h1>
   {%-if site.theme_config.show_description-%}
-    <p>{{ site.description }}</p>
+    <p>{{ port[0].subtitle }}</p>
+    <!-- <a href="/en">English</a> -->
+    <!-- <img src='http://localhost:4000/assets/img/pb.jpg' alt='Girl in a jacket' width='100' height='100'> -->
     
   {%-endif-%}
 </header>
 
-{%-include menu_item.html collection=site.data.menu.entries-%}
+{%-include menu_item.html collection=entries-%}
 
 {{ content }}

@@ -1,6 +1,12 @@
 ---
 layout: post
 slug: rickmortyspa
+name: "Rick Morty SPA"
+techs: "Vue, GraphQL"
+data: 2021-08-23
+link: "https://rickmortyspa.herokuapp.com/"
+github: "https://github.com/izichtl/rickmortySpa"
+permalink: /rickspa
 ---
 
 

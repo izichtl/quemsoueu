@@ -1,6 +1,13 @@
 ---
 layout: post
 slug: mondrian
+techs: "Vue, Sass"
+name: Mondriam Grid
+link: "https://mondriangrid.netlify.app"
+github: "https://github.com/izichtl/mondrian"
+imgtag: mondrian
+data: 2021-08-29
+permalink: /mondrian 
 ---
 
 

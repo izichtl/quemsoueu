@@ -1,30 +1,36 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
-  - title: Quem sou eu-
+  - title: Objetivo profissional-
     entries:
-      - title: 20/08/1986 - Nova Iguaçu - Rj
-      - title: Lógico e criativo, interessado em diferentes áreas de conhecimento. 
-      - title: "Comecei a estudar Python para tentar resolver alguns problemas com arquitetura paramétrica, acabei gostei muito. Isso foi em 2017, desde então procuro entender um pouco sobre cada área do desenvolvimento para conseguir sempre visualizar o todo, meu foco de estudo é o desenvolvimento web com NodeJs, também estudo PHP e POO."
-      
-      - title: "Gosto de olhar para as situações em diferentes perspectivas e gosto de abstrair o mundo em geometria."
-      - title: Eu poderia ajudar você? Meus contatos :) 
-       
-      - title: "21 98260-8223 / izichtl@gmail.com"  
-      - title: "GitHub <a  href='https://github.com/izichtl' target='_blank'>izichtl</a>"
+      - title: Atuar no desenvolvimento de aplicações nas camadas f....
+  - title: Sobre-
+    entries:
+      - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
+      - title:     Comecei a estudar Python para tentar resolver alguns problemas com arquitetura paramétrica, acabei gostei muito. Isso foi em 2017, desde então procuro entender um pouco sobre cada área do desenvolvimento para conseguir sempre visualizar o todo, meu foco de estudo é o desenvolvimento web com NodeJs, também estudo PHP e POO."
+      - title:     "Gosto de olhar para as situações em diferentes perspectivas e gosto de abstrair o mundo em geometria."
+  - title: Dados-
+    entries:
+      - title: GitHub
+      - title: Nova Iguaçu-Rj - 20/08/1986
+      - title: "Contatos - <a href='tel:+5521982608223'>21 98260-8223</a>, <a href='mailto: izichtl@gmail.com'>izichtl@gmail.com</a>"  
       - title: "Portifólio <a href='https://www.behance.net/zichtl' target='_blank' >arquitetura e design</a>"
+  - title: Competências-
+    entries:
+      - title: Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend. 
+      - title: Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d.   
   - title: Conhecimentos-
     entries:
-      - title: Html, Css, Markdown, Javascript, Typescript, Php, Ejs.
-      - title: RegEx, Rest, NodeJs, Vue, React, Sql, Express, Jekyll.
-      - title: CLI, Git, Github, Docker, PMBOK, Scrum, Inglês Técnico.
-  - title: Projetos-
+      - title: React, Vue, MaterialUI, Jekyll, Html, Css, Ejs.
+      - title: NodeJs, Express, PostGres, SQL, NoSql.
+      - title: CLI, Git, Docker, Regex.
+      - title: Metodologia Ágil, PMBOK, Inglês Técnico.
+  - title: Capacidade Técnica-
     post_list:
-      limit: 3
+      limit: 6
       show_more: true
       show_more_text: Todos os Projetos.
-      show_more_url: archive.html
+      show_more_url: projetos
 
   - title: Educacional-
     entries:
@@ -46,7 +52,4 @@ entries:
       - title: Angelim Arquitetura - Arquiteto - 2anos.
       - title: Consultoria Criativa - Designer - 4anos.
       - title: Provecto Smart Offices - Designer - 3anos.
-  - title: sobre este site.
-    entries:
-      - title: "Desenvolvido por <a href='https://github.com/izichtl' target='_blank' >Ivan Zichtl</a>."
-      - title: "Este site usa a template no-style-please, criado por <a href='https://riggraz.dev' target='_blank' >riggraz.dev</a>"
+  

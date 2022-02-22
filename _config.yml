@@ -3,8 +3,8 @@ author: Ivan Zichtl # name of site's author
 email: izichtl@gmail.com # email of site's author
 url: https://quemsoueu.netlify.app # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: "Desenvolvedor Full-Stack NodeJs." # description of the site (multiple lines allowed)
-
+description: "Desenvolvedor Full Stack NodeJs." # description of the site (multiple lines allowed)
+github: https://github.com/izichtl
 
 permalink: /:slug.html
 
@@ -22,6 +22,16 @@ theme_config:
 
 sass:
   style: :compressed
+
+defaults: 
+  - scope:
+      path: assets/post
+    values:
+      image: true
+  - scope:
+      path: _posts/ptbr
+    values:
+      ptbr: true
 
 plugins:
   - jekyll-feed

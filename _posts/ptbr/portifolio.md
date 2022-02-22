@@ -1,6 +1,8 @@
 ---
 layout: post
 slug: portifolio
+techs: "HTML, CSS, Javascript"
+dataa: 2021-03-03-portifolio
 ---
 
 Meu primeiro portifólio, feito em html e css, este fui eu maravilhado com flexbox, rs.

@@ -1,0 +1,122 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+title: Ivan Zichtl.
+port:
+- subtitle: Desenvolvedor Full Stack NodeJs.
+- posttitle: Todos os Projetos.
+ptentries:
+  - title: 
+    entries:
+      # - title: "<img src='http://localhost:4000/assets/img/pb.jpg' alt='Girl in a jacket' width='100' height='100'>"
+      - title: "<a href='/projetos' >Projetos</a>"
+      - title: "<a href='tel:+5521982608223'>21 98260-8223</a>" 
+      - title: "<a href='mailto: izichtl@gmail.com'>izichtl@gmail.com</a>"  
+      - title: "<a target='_blank' href='http://www.github.com/izichtl'>Github.com/izichtl</a>"
+  - title:  
+  - title: Objetivo profissional-
+    entries:
+      - title:     Atuar na idealização e desenvolvimento de aplicações, e seu gerenciamento. 
+  - title:  
+  - title: Sobre-
+    entries:
+      - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
+      - title:     Ingressei no campo da programação em 2017  utilizando Python para construir formas arquitetônicas e desde então direciono minhas atenções para o estudo e desenvolvimento de aplicações web. Possuo experiência no desenvolvimento scritps, apis, interfaces dinâmicas e estáticas em projetos pessoais e profissionais.
+      - title:     Gosto de olhar para as situações de diferentes perspectivas, abistraindo o mundo em geometria.
+  - title:  
+  - title: Competências-
+    entries:
+      - title:     Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend voltadas para o desenvolvimento web. 
+      - title:     Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d e técnicas construtivas tradicionais.   
+  - title:  
+  - title: Conhecimentos-
+    entries:
+      - title: "React, Vue, MaterialUI, Vuetify, Jekyll."
+      - title: "NodeJs, Express, PostGres, SQL, NoSql."
+      - title: "Javascript, Typescript, Regex, Python, Php."
+      - title: "Git, Docker, Regex, Scrum, PMBOK, Inglês Técnico."
+  - title:  
+  - title: Experiência Profissional-
+    entries:
+      - title: Kiral Saude - Desenvolvedor FullStack - atual.
+      - title: Angelim Arquitetura - Arquiteto - 2anos.
+      - title: Consultoria Criativa - Designer - 4anos.
+      - title: Provecto Smart Offices - Designer - 3anos.
+  - title:  
+  - title: Educacional-
+    entries:
+      - title: Académico
+        entries:
+          - title: Análise de Sistemas - emCurso - 2021.
+          - title: Especialização em Gestão de Projetos de TI - emCurso - 2020.
+          - title: Arquitetura e Urbanismo - 2017.
+      - title: Cursos Livres
+        entries:
+          - title: API Nodejs - 2021.
+          - title: Webdesign Responsivo - 2021.
+          - title: Astrofisca Geral - 2020.
+          - title: Python - 2019.
+          - title: Adobe Suite - 2009.
+  - title:  
+  - title: Capacidade Técnica-
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: Todos os Projetos.
+      show_more_url: projetos
+
+eng:
+  - subtitle: Full Stack Developer NodeJs.
+  - posttitle: Todos os Projetos.
+engentries:
+  - title: Versão Ingles-
+    entries:
+      - title: Atuar na idealização e desenvolvimento de aplicaçõe e suas partes, nas camadas front-end e back-end. 
+  - title: Sobre-
+    entries:
+      - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
+      - title:     Ingressei no campo da programação em 2017, utilizando Python para construir formas arquitetônicas e desde então direciono meu foco para o estudo e desenvolvimento de aplicações web, desenvolvendo Scritps, Apis, Interfaces dinâmicas e estáticas em projetos pessoais e profissionais.
+      - title:     "Gosto de olhar para as situações em diferentes perspectivas e gosto de abstrair o mundo em geometria."
+  - title: Dados-
+    entries:
+      - title: GitHub
+      - title: Nova Iguaçu-Rj - 20/08/1986
+      - title: "Contatos - <a href='tel:+5521982608223'>21 98260-8223</a>, <a href='mailto: izichtl@gmail.com'>izichtl@gmail.com</a>"  
+      - title: "Portifólio <a href='https://www.behance.net/zichtl' target='_blank' >arquitetura e design</a>"
+  - title: Competências-
+    entries:
+      - title: Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend. 
+      - title: Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d.   
+  - title: Conhecimentos-
+    entries:
+      - title: React, Vue, MaterialUI, Jekyll, Html, Css, Ejs.
+      - title: NodeJs, Express, PostGres, SQL, NoSql.
+      - title: CLI, Git, Docker, Regex.
+      - title: Metodologia Ágil, PMBOK, Inglês Técnico.
+  - title: Capacidade Técnica-
+    post_list:
+      limit: 6
+      show_more: true
+      show_more_text: Todos os Projetos.
+      show_more_url: projetos
+  - title: Educacional-
+    entries:
+      - title: Académico
+        entries:
+          - title: Análise de Sistemas - emCurso - 2021.
+          - title: Especialização em Gestão de Projetos de TI - emCurso - 2020.
+          - title: Arquitetura e Urbanismo - 2017.
+      - title: Cursos Livres
+        entries:
+          - title: API Nodejs - 2021.
+          - title: Webdesign Responsivo - 2021.
+          - title: Python - 2019.
+          - title: Inglês - 2017.
+          - title: Adobe Suite - 2009.
+  - title: Experiência Profissional-
+    entries:
+      - title: Kiral - Estágio/Dev_FullStack - atual.
+      - title: Angelim Arquitetura - Arquiteto - 2anos.
+      - title: Consultoria Criativa - Designer - 4anos.
+      - title: Provecto Smart Offices - Designer - 3anos.
+

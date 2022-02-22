@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
 {%-include back_link.html-%}
+{%-assign port = site.data.base.port-%}
+<br>
 
-<h1>Todos os Projetos</h1>
-
-{%-include post_list.html category=page.which_category-%}
+<h1>{{ port[1].posttitle }}</h1>
+{%-include post_list_simple.html category=page.which_category-%}

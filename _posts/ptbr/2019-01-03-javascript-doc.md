@@ -1,6 +1,11 @@
 ---
 layout: post
 slug: jsdoc
+name: "Documentação JS"
+techs: "HTML, CSS, Javascript"
+data: 2021-01-18"
+link: "https://izichtl.github.io/Jsdocumentation/"
+github: "https://github.com/izichtl/Jsdocumentation"
 ---
 
 Página web responsiva contendo a documentação básica do javascript. 

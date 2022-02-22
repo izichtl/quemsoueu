@@ -1,6 +1,12 @@
 ---
 layout: post
-slug: apirestjwt
+slug: u
+name: DashBoard
+techs: "Vue, Vuetify, Graphql" 
+link: "http://www.google.com" 
+github: "https://github.com/izichtl/apiclient" 
+data: 2022-01-14
+permalink: /dashboard
 ---
 
 

@@ -1,6 +1,12 @@
 ---
 layout: post
 slug: donamaria
+name: "DMaria Téxtil"
+techs: "HTML, CSS, Javascript"
+link: "https://izichtl.github.io/dmaria/"
+github: "https://github.com/izichtl/dmaria"
+data: 2021-01-01
+permalink: /dmaria
 ---
 
 Landing page responsiva para uma loja comercial fictícia.
