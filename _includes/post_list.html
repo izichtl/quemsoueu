@@ -33,8 +33,8 @@
     <li>
       <a href="{{everything}}">{{ post.name }}</a>
       - 
-      <a target="_blank" href="{{ post.link | relative_url }}">{{ 'site' }}</a> |
-      <a target="_blank" href="{{ post.github | relative_url }}">{{ 'github' }}</a>
+      <a target="_blank" href="{{ post.link | relative_url }}">{{ 'site' }}</a>
+      <!-- <a target="_blank" href="{{ post.github | relative_url }}">{{ 'github' }}</a> -->
       <br>{{ post.data | date: '%Y' }}
       - {{ post.techs }}
       <br>
