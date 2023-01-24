@@ -16,29 +16,31 @@ ptentries:
   - title:  
   - title: Objetivo profissional-
     entries:
-      - title:     Atuar na idealização e desenvolvimento de aplicações, e seu gerenciamento. 
+      - title:     Atuar na desenvolvimento de aplicações em suas diferentes camadas. 
+      - title:     Atuar na idealização e projetização de aplicações, e seu gerenciamento. 
   - title:  
   - title: Sobre-
     entries:
       - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
-      - title:     Ingressei no campo da programação em 2017  utilizando Python para construir formas arquitetônicas e desde então direciono minhas atenções para o estudo e desenvolvimento de aplicações web. Possuo experiência no desenvolvimento scripts, apis, interfaces dinâmicas e estáticas em projetos pessoais e profissionais.
-      - title:     Gosto de olhar para os desafios de diferentes perspectivas, abstraindo o mundo em geometria.
+      - title:     Ingressei no campo da programação a 5 anos utilizando Python para construir formas arquitetônicas, em 2021 passei atuar em tempo integral no desenvolvimento de aplicações, desde então direciono minhas atenções para o estudo e desenvolvimento de aplicações e suas arquiteturas. Possuo experiência com desenvolvimento de interfaces web e mobile com React e React-Native, além de Api's com Node JS.
+      - title:     Gosto de olhar para as ideias de diferentes perspectivas, abstraindo em geometria.
   - title:  
   - title: Competências-
     entries:
-      - title:     Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend voltadas para o desenvolvimento web. 
+      - title:     Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend voltadas para o desenvolvimento web e mobile. 
       - title:     Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d e técnicas construtivas tradicionais.   
   - title:  
   - title: Conhecimentos-
     entries:
-      - title: "React, Vue, MaterialUI, Vuetify, Jekyll."
-      - title: "NodeJs, Express, PostGres, SQL, NoSql."
-      - title: "Javascript, Typescript, Regex, Python, Php."
-      - title: "Git, Docker, Regex, Scrum, PMBOK, Inglês Técnico."
+      - title: "React, React-Native, Vue, Jekyll, Storybook."
+      - title: "NodeJs, Express, PostGres, MongoDB."
+      - title: "Typescript, Regex, Python, Php, C#"
+      - title: "Git, BitBucket, Jira, Docker, AWS, Scrum, PMBOK, Inglês Técnico."
   - title:  
   - title: Experiência Profissional-
     entries:
-      - title: Kiral Saúde - Desenvolvedor FullStack - atual.
+      - title: Bilheteria Digital - Desenvolvedor FullStack - 11meses - atual.
+      - title: Kiral Saúde - Desenvolvedor FullStack - 6meses.
       - title: Angelim Arquitetura - Arquiteto - 2anos.
       - title: Consultoria Criativa - Designer - 4anos.
       - title: Provecto Smart Offices - Designer - 3anos.
@@ -75,7 +77,7 @@ engentries:
   - title: Sobre-
     entries:
       - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
-      - title:     Ingressei no campo da programação em 2017, utilizando Python para construir formas arquitetônicas e desde então direciono meu foco para o estudo e desenvolvimento de aplicações web, desenvolvendo Scritps, Apis, Interfaces dinâmicas e estáticas em projetos pessoais e profissionais.
+      - title:     Ingressei no campo da programação em 2017, utilizando Python para construir formas arquitetônicas e desde então direciono meu foco para o estudo e desenvolvimento de aplicações e suas arquiteturas, desenvolvendo Scritps, Apis, Interfaces dinâmicas e estáticas em projetos pessoais e profissionais.
       - title:     "Gosto de olhar para as situações em diferentes perspectivas e gosto de abstrair o mundo em geometria."
   - title: Dados-
     entries:
@@ -89,7 +91,7 @@ engentries:
       - title: Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d.   
   - title: Conhecimentos-
     entries:
-      - title: React, Vue, MaterialUI, Jekyll, Html, Css, Ejs.
+      - title: React, Vue, Jekyll, Storybook, Html, Css, MaterialUI.
       - title: NodeJs, Express, PostGres, SQL, NoSql.
       - title: CLI, Git, Docker, Regex.
       - title: Metodologia Ágil, PMBOK, Inglês Técnico.
@@ -108,6 +110,8 @@ engentries:
           - title: Arquitetura e Urbanismo - 2017.
       - title: Cursos Livres
         entries:
+          - title: Typescript - 2022.
+          - title: React-Native - 2022.
           - title: API Nodejs - 2021.
           - title: Webdesign Responsivo - 2021.
           - title: Python - 2019.
