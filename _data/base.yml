@@ -22,7 +22,7 @@ ptentries:
   - title: Sobre-
     entries:
       - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
-      - title:     Ingressei no campo da programação a 5 anos utilizando Python para construir formas arquitetônicas, em 2021 passei atuar em tempo integral no desenvolvimento de aplicações, desde então direciono minhas atenções para o estudo e desenvolvimento de aplicações e suas arquiteturas. Possuo experiência com desenvolvimento de interfaces web e mobile com React e React-Native, além de Api's com Node JS.
+      - title:     Ingressei no campo da programação em 2017 utilizando Python para construir formas arquitetônicas, em 2021 passei atuar em tempo integral no desenvolvimento de aplicações, desde então direciono minhas atenções para o estudo e desenvolvimento de aplicações e suas arquiteturas. Possuo experiência com desenvolvimento de interfaces web e mobile com React e React-Native, além de Api's com Node JS.
       - title:     Gosto de olhar para as ideias de diferentes perspectivas, abstraindo em geometria.
   - title:  
   - title: Competências-
@@ -32,15 +32,16 @@ ptentries:
   - title:  
   - title: Conhecimentos-
     entries:
-      - title: "React, React-Native, Vue, Jekyll, Storybook."
-      - title: "NodeJs, Express, PostGres, MongoDB."
-      - title: "Typescript, Regex, Python, Php, C#"
-      - title: "Git, BitBucket, Jira, Docker, AWS, Scrum, PMBOK, Inglês Técnico."
+      - title: "React, React-Native, Angular, Vue, Jekyll, Storybook."
+      - title: "Next.js, NodeJs, Express, Serverless, PostGres, PostegreREST, MongoDB, Supabase."
+      - title: "Typescript, Python, Php, C#, Rust,"
+      - title: "Git, BitBucket, Jira, Docker, AWS, Scrum, PMBOK, Inglês Técnico/Avançado."
   - title:  
   - title: Experiência Profissional-
     entries:
-      - title: Bilheteria Digital - Desenvolvedor FullStack - 11meses - atual.
-      - title: Kiral Saúde - Desenvolvedor FullStack - 6meses.
+      - title: Sicred/Crescer - Desenvolvedor Pleno FullStack - 3meses - freelancer.
+      - title: Bilheteria Digital - Desenvolvedor Pleno FullStack - 30meses - atual.
+      - title: Kiral Saúde - Desenvolvedor Junior FullStack - 6meses.
       - title: Angelim Arquitetura - Arquiteto - 2anos.
       - title: Consultoria Criativa - Designer - 4anos.
       - title: Provecto Smart Offices - Designer - 3anos.
@@ -50,7 +51,7 @@ ptentries:
       - title: Acadêmico
         entries:
           - title: Análise de Sistemas - emCurso - 2021.
-          - title: Especialização em Gestão de Projetos de TI - emCurso - 2020.
+          - title: Especialização em Gestão de Projetos em Tecnologia da Informação - 2022.
           - title: Arquitetura e Urbanismo - 2017.
       - title: Cursos Livres
         entries:
