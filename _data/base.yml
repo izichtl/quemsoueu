@@ -1,127 +1,140 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-title: Ivan Zichtl.
+title: Ivan Zichtl Santos.
 port:
-- subtitle: Desenvolvedor Full Stack NodeJs.
+- subtitle: Desenvolvedor Full Stack | Typescript | ReactJS | NodeJs | Java;
 - posttitle: Todos os Projetos.
 ptentries:
-  - title: 
+  - title: "<b>Contatos-</b>"
     entries:
-      # - title: "<img src='http://localhost:4000/assets/img/pb.jpg' alt='Girl in a jacket' width='100' height='100'>"
-      - title: "<a href='/projetos' >Projetos</a>"
-      - title: "<a href='tel:+5521982608223'>21 98260-8223</a>" 
-      - title: "<a href='mailto: izichtl@gmail.com'>izichtl@gmail.com</a>"  
-      - title: "<a target='_blank' href='http://www.github.com/izichtl'>Github.com/izichtl</a>"
+      - title: "<b>izichtl@gmail.com</b> | <b>21 98260-8223</b>" 
+      - title: "<a target='_blank' href='http://www.github.com/izichtl'>github.com/izichtl</a>"
   - title:  
-  - title: Objetivo profissional-
+  - title: "<b>Resumo Profissional-</b>"
     entries:
-      - title:     Atuar na desenvolvimento de aplicações em suas diferentes camadas. 
-      - title:     Atuar na idealização e projetização de aplicações, e seu gerenciamento. 
+      - title:     Desenvolvedor Full-stack com 5 anos de experiência, especializado no desenvolvimento de soluções web e mobile. Tenho experiência sólida em tecnologias como React, TypeScript, Node.js, Java, Spring Boot e React Native, além de arquitetura de microserviços e integração de sistemas legados. Ao longo da minha carreira, trabalhei em projetos que incluem a criação de aplicações web e móveis para gestão de eventos, integração de sistemas de vendas, e automação de processos empresariais.
+      - title:     Possuo também experiência na construção de documentações técnicas e de gerenciamento de projetos, criando mapas de integração entre aplicações, cronogramas, levantamento de requisitos e definição de tarefas. Com foco em entregar soluções robustas e amigáveis ao usuário, sempre busco melhorar a experiência tanto para clientes quanto para organizadores de eventos. Além disso, tenho experiência com integração de APIs, chatbots, modelos de linguagem natural (IA) e sistemas de pagamentos, o que me permite desenvolver soluções completas e de alto impacto.
+      - title:     
+      - title:     Palavras-chave; Typescript, Java, PHP, JavaScript, React, Node JS, Serverless, Storybook, AWS Lambda, Docker
   - title:  
-  - title: Sobre-
+  - title: "<b>Experiência Profissional-</b>"
     entries:
-      - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
-      - title:     Ingressei no campo da programação em 2017 utilizando Python para construir formas arquitetônicas, em 2021 passei atuar em tempo integral no desenvolvimento de aplicações, desde então direciono minhas atenções para o estudo e desenvolvimento de aplicações e suas arquiteturas. Possuo experiência com desenvolvimento de interfaces web e mobile com React e React-Native, além de Api's com Node JS.
-      - title:     Gosto de olhar para as ideias de diferentes perspectivas, abstraindo em geometria.
+      - title: "<b>Bilheteria Digital - Desenvolvedor FullStack,</b> 18/03/22 — atual."
+      - title:    Desenvolvimento de soluções web e mobile, atuando de ponta a ponta nas aplicações e suas funcionalidades, construção do projeto documental dos sistemas legados e atuais.
+      - title:    -Desenvolvi um aplicativo mobile para venda de ingressos e controle de acesso a eventos utilizando React Native.
+      - title:    -Criei uma aplicação web para organizadores analisarem dados e efetuarem saques de forma eficiente, usando TypeScript, ReactJS e arquitetura de microsserviços.
+      - title:    -Conduzi o projeto de documentação da empresa, incluindo o mapeamento de integração entre aplicações novas e legadas.
+      - title:    
+      - title: "<b>GausData - Desenvolvedor Pleno FullStack Autônomo,</b> 01/12/2019 — atual."
+      - title:    Desenvolvimento de aplicações personalizadas e integrações avançadas para negócios, abrangendo desde sistemas de vendas a chatbots e APIs diversas.
+      - title:    -Desenvolvi uma aplicação web integrada a diferentes sistemas de vendas, permitindo gerenciamento de transações, estoque e pagamentos entre empresas.
+      - title:    -Implementei novas funcionalidades em sistemas legados com React, Node.js, Angular e Vue.
+      - title:    -Integrei chatbots com modelos de linguagem natural como interface humano-máquina.
+      - title:    -Mantive aplicações web utilizando PHP, TypeScript, JavaScript e frameworks modernos.
+      - title:    
+      - title: "<b>Pulsar - Programa Crescer Sicred - Desenvolvedor Pleno FullStack Freelancer, </b> 01/06/24 — 30/11/24"
+      - title:    Atuei como contratado no Programa Crescer da Sicredi, desenvolvendo integrações com API do WhatsApp, Google e Jotform.
+      - title:    -Criei um aplicativo de perguntas e respostas em formato de quiz utilizando React, Node.js e TypeScript.
+      - title:    -Desenvolvi provas de conceito integrando API da meta (whatsapp) com ferramentas de geração de relatórios e PDF.
+      - title:    
+      - title: "<b>Kiral Saúde - Desenvolvedor Junior FullStack,</b> 01/10/21 — 15/03/22"
+      - title:    Desenvolvimento de sistema de gestão hospitalar, com foco em modelagem de banco de dados e funcionalidade personalizada para clínicas e hospitais.
+      - title:    -Desenvolvi um sistema de gestão hospitalar usando React para o front-end e TypeScript com Node.js para o back-end.
+      - title:    -Modelei o banco de dados conforme as necessidades do sistema, priorizando desempenho e registro de ações.
+      - title:    
+      - title: "<b>Angelim Arquitetura - Arquiteto e Urbanista, </b> 01/01/2017 — 30/11/19"
+      - title:    Gestão de projetos arquitetônicos e de construção, com atuação em design comercial e administração legal e financeira da empresa.
+      - title:    -Gerenciei projetos de construção e reformas arquitetônicas em edifícios comerciais.
+      - title:    -Desenvolvi projetos arquitetônicos para interiores, novas construções e processos de legalização.
   - title:  
-  - title: Competências-
+  - title: "<b>Educação e desenvolvimento pessoal-</b>"
     entries:
-      - title:     Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend voltadas para o desenvolvimento web e mobile. 
-      - title:     Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d e técnicas construtivas tradicionais.   
-  - title:  
-  - title: Conhecimentos-
-    entries:
-      - title: "React, React-Native, Angular, Vue, Jekyll, Storybook."
-      - title: "Next.js, NodeJs, Express, Serverless, PostGres, PostegreREST, MongoDB, Supabase."
-      - title: "Typescript, Python, Php, C#, Rust,"
-      - title: "Git, BitBucket, Jira, Docker, AWS, Scrum, PMBOK, Inglês Técnico/Avançado."
-  - title:  
-  - title: Experiência Profissional-
-    entries:
-      - title: Sicred/Crescer - Desenvolvedor Pleno FullStack - 3meses - freelancer.
-      - title: Bilheteria Digital - Desenvolvedor Pleno FullStack - 30meses - atual.
-      - title: Kiral Saúde - Desenvolvedor Junior FullStack - 6meses.
-      - title: Angelim Arquitetura - Arquiteto - 2anos.
-      - title: Consultoria Criativa - Designer - 4anos.
-      - title: Provecto Smart Offices - Designer - 3anos.
-  - title:  
-  - title: Educacional-
-    entries:
-      - title: Acadêmico
-        entries:
-          - title: Análise de Sistemas - emCurso - 2021.
-          - title: Especialização em Gestão de Projetos em Tecnologia da Informação - 2022.
-          - title: Arquitetura e Urbanismo - 2017.
-      - title: Cursos Livres
-        entries:
-          - title: API Nodejs - 2021.
-          - title: Webdesign Responsivo - 2021.
-          - title: Astrofísica Geral - 2020.
-          - title: Python - 2019.
-          - title: Adobe Suite - 2009.
-  - title:  
-  - title: Capacidade Técnica-
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: Todos os Projetos.
-      show_more_url: projetos
+      - title: "<b>Análise e Desenvolvimento de Sistemas.</b>"
+      - title:    Estácio de Sá.
+      - title:    2022 — Em curso.
+      - title: "<b>Especialização em Gestão de Projetos em Tecnologia da Informação - 2022.</b>"
+      - title:    Instituto Federal do Rio de Janeiro.
+      - title:    2019 — 2023.
+      - title: "<b>Arquitetura e Urbanismo - 2017.</b>"
+      - title:    Centro Universitário Augusto Motta.
+      - title:    2013 — 2017.
+      - title: "<b>API Nodejs - 2021.</b>"
+      - title:    Curso Erick Wendel.
+      - title: "<b>JavaScript Algorithms and Data Structures - 2022.</b>"
+      - title:    Free Code Camp.
+      - title: "<b>Webdesign Responsivo - 2021.</b>"
+      - title:    Free Code Camp.
+      - title: "<b>Astrofísica Geral - 2020.</b>"
+      - title:    Universidade Federal de Santa Catarina.
+      - title: "<b>Python - 2019.</b>"
+      - title:    Cognitive Class.
+  # - title: Capacidade Técnica-
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: Todos os Projetos...
+  #     show_more_url: projetos
 
-eng:
-  - subtitle: Full Stack Developer NodeJs.
-  - posttitle: Todos os Projetos.
-engentries:
-  - title: Versão Ingles-
-    entries:
-      - title: Atuar na idealização e desenvolvimento de aplicaçõe e suas partes, nas camadas front-end e back-end. 
-  - title: Sobre-
-    entries:
-      - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
-      - title:     Ingressei no campo da programação em 2017, utilizando Python para construir formas arquitetônicas e desde então direciono meu foco para o estudo e desenvolvimento de aplicações e suas arquiteturas, desenvolvendo Scritps, Apis, Interfaces dinâmicas e estáticas em projetos pessoais e profissionais.
-      - title:     "Gosto de olhar para as situações em diferentes perspectivas e gosto de abstrair o mundo em geometria."
-  - title: Dados-
-    entries:
-      - title: GitHub
-      - title: Nova Iguaçu-Rj - 20/08/1986
-      - title: "Contatos - <a href='tel:+5521982608223'>21 98260-8223</a>, <a href='mailto: izichtl@gmail.com'>izichtl@gmail.com</a>"  
-      - title: "Portifólio <a href='https://www.behance.net/zichtl' target='_blank' >arquitetura e design</a>"
-  - title: Competências-
-    entries:
-      - title: Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend. 
-      - title: Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d.   
-  - title: Conhecimentos-
-    entries:
-      - title: React, Vue, Jekyll, Storybook, Html, Css, MaterialUI.
-      - title: NodeJs, Express, PostGres, SQL, NoSql.
-      - title: CLI, Git, Docker, Regex.
-      - title: Metodologia Ágil, PMBOK, Inglês Técnico.
-  - title: Capacidade Técnica-
-    post_list:
-      limit: 6
-      show_more: true
-      show_more_text: Todos os Projetos.
-      show_more_url: projetos
-  - title: Educacional-
-    entries:
-      - title: Académico
-        entries:
-          - title: Análise de Sistemas - emCurso - 2021.
-          - title: Especialização em Gestão de Projetos de TI - emCurso - 2020.
-          - title: Arquitetura e Urbanismo - 2017.
-      - title: Cursos Livres
-        entries:
-          - title: Typescript - 2022.
-          - title: React-Native - 2022.
-          - title: API Nodejs - 2021.
-          - title: Webdesign Responsivo - 2021.
-          - title: Python - 2019.
-          - title: Inglês - 2017.
-          - title: Adobe Suite - 2009.
-  - title: Experiência Profissional-
-    entries:
-      - title: Kiral - Estágio/Dev_FullStack - atual.
-      - title: Angelim Arquitetura - Arquiteto - 2anos.
-      - title: Consultoria Criativa - Designer - 4anos.
-      - title: Provecto Smart Offices - Designer - 3anos.
+# eng:
+#   - subtitle: Full Stack Developer NodeJs.
+#   - posttitle: Todos os Projetos.
+# engentries:
+#   - title: Versão Ingles-
+#     entries:
+#       - title: Atuar na idealização e desenvolvimento de aplicaçõe e suas partes, nas camadas front-end e back-end. 
+#   - title: Sobre-
+#     entries:
+#       - title:     Lógico e criativo, interessado em diferentes áreas de conhecimento. 
+#       - title:     Ingressei no campo da programação em 2017, utilizando Python para construir formas arquitetônicas e desde então direciono meu foco para o estudo e desenvolvimento de aplicações e suas arquiteturas, desenvolvendo Scritps, Apis, Interfaces dinâmicas e estáticas em projetos pessoais e profissionais.
+#       - title:     "Gosto de olhar para as situações em diferentes perspectivas e gosto de abstrair o mundo em geometria."
+#   - title: Dados-
+#     entries:
+#       - title: GitHub
+#       - title: Nova Iguaçu-Rj - 20/08/1986
+#       - title: "Contatos - <a href='tel:+5521982608223'>21 98260-8223</a>, <a href='mailto: izichtl@gmail.com'>izichtl@gmail.com</a>"  
+#       - title: "Portifólio <a href='https://www.behance.net/zichtl' target='_blank' >arquitetura e design</a>"
+#   - title: Competências-
+#     entries:
+#       - title: Idealização e desenvolvimento de aplicações utilizando tecnologias de frontend e backend. 
+#       - title: Idealização e desenvolvimento de artefatos físicos utilizando tecnologias de produção digital, modelagem 3d.   
+#   - title: Conhecimentos-
+#     entries:
+#       - title: React, Vue, Jekyll, Storybook, Html, Css, MaterialUI.
+#       - title: NodeJs, Express, PostGres, SQL, NoSql.
+#       - title: CLI, Git, Docker, Regex.
+#       - title: Metodologia Ágil, PMBOK, Inglês Técnico.
+#   - title: Capacidade Técnica-
+#     post_list:
+#       limit: 6
+#       show_more: true
+#       show_more_text: Todos os Projetos.
+#       show_more_url: projetos
+#   - title: Educacional-
+#     entries:
+#       - title: Académico
+#         entries:
+#           - title: Análise de Sistemas - emCurso - 2021.
+#           - title: Especialização em Gestão de Projetos de TI - emCurso - 2020.
+#           - title: Arquitetura e Urbanismo - 2017.
+#       - title: Cursos Livres
+#         entries:
+#           - title: Typescript - 2022.
+#           - title: React-Native - 2022.
+#           - title: API Nodejs - 2021.
+#           - title: Webdesign Responsivo - 2021.
+#           - title: Python - 2019.
+#           - title: Inglês - 2017.
+#           - title: Adobe Suite - 2009.
+#   - title: Experiência Profissional-
+#     entries:
+#       - title: Kiral - Estágio/Dev_FullStack - atual.
+#       - title: Angelim Arquitetura - Arquiteto - 2anos.
+#       - title: Consultoria Criativa - Designer - 4anos.
+#       - title: Provecto Smart Offices - Designer - 3anos.
 
+
+
+
+# Quiz Coop (Programa Crescer - Sicredi)
+# Desenvolvimento de um quiz interativo para promover o cooperativismo, com captura de dados do usuário, geração de perfis personalizados com base na pontuação e direcionamento para atendimento específico.
